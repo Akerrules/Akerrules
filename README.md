@@ -4,19 +4,19 @@
 
 I'm currently enrolled at the University of Ottawa, pursuing a four-year computer science degree!
 
-Things I like to do other than programning
+Things I like to do other than programming
 
 - Running/Gym <img src="https://media.giphy.com/media/Tgxr8pn069Sf7mgv0e/giphy.gif" width="32" height="32" > <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNhYmg5bDNmNWVhY2diZzAyNzhnaTFhbzVzd3dxOHk3MTNndnpnNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/JT2Pi6AdjSLpjJwCWM/giphy.gif" width="32" height="32"  >
 - Taking picutres <img src = "https://media.giphy.com/media/Icnx2yiZKW3ecPVHYP/giphy.gif" width ="32" height = "32">
 
 ## Skills
 
-- **Programming Languages** : Excellent understadning of programming language such as Python, Java, c#, GO, SQL and concept such as OOP.
-- **Data Structures and Algorithms**: A good understanding fundamental data structures (e.g., arrays, linked lists, trees) and algorithms.
+- **Programming Languages**: Excellent understanding of programming languages such as Python, Java, c#, GO, SQL and concepts such as OOP.
+- **Data Structures and Algorithms**: A good understanding of fundamental data structures (e.g., arrays, linked lists, trees) and algorithms.
 - **Computer Architecture**: Basic understanding of components of computer systems and how they work together.
 - **Software Development**: Concepts of software engineering, version control, and development methodologies.
 - **Web Development**: Knowledge of web technologies such as HTML, CSS, javascript and web frameworks(react, nextjs, node).
-- **Other skills**: Firebase, Docker, Wireshark, Microsoft office, Android studio, Vscode, eclipse, Git, bash
+- **Other skills**: Firebase, Docker, Wireshark, Microsoft Office, Android Studio, Vscode, eclipse, Git, bash
 
 ##
 
