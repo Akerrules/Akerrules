@@ -1,6 +1,6 @@
 # Hi, Welcome to my GitHub
 
-## <img src="https://media.giphy.com/media/2t9xWdjuhTpa99pLma/giphy.gif" width="16" height="16"> My Name is _Aditya Kandel_ <img src="https://media.giphy.com/media/2t9xWdjuhTpa99pLma/giphy.gif" width="16" height="16"> <img src = "Profile.png" width =64 height =64>
+## <img src="https://media.giphy.com/media/2t9xWdjuhTpa99pLma/giphy.gif" width="32" height="32"> My Name is _Aditya Kandel_ <img src="https://media.giphy.com/media/2t9xWdjuhTpa99pLma/giphy.gif" width="32" height="32"> <img src = "Profile.png" width =64 height =64>
 
 I'm currently enrolled at the University of Ottawa, pursuing a four-year computer science degree!
 
