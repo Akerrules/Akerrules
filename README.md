@@ -23,3 +23,5 @@ Things I like to do other than programming
 Feel free to check out my project on GitHub!
 
 You can also connect with me at [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kandel-7ab9501ba/)
+
+https://github-readme-stats.vercel.app/api?username=Akerrules&show_icons=true&bg_color=00000000
